@@ -308,7 +308,7 @@ h2{
     width: 250px;
     height: 250px;
     border-radius: 5px;
-    background-image: linear-gradient(#64FFDA, #64FFDA), url(/css/images/20230411_010416.jpg);
+    background-image: linear-gradient(#64FFDA, #64FFDA), url(./images/20230411_010416.jpg);
     background-size: 400px;
     background-position: top center;
     background-blend-mode: color;
@@ -318,7 +318,7 @@ h2{
 
 .image:hover{
     background-blend-mode: normal;
-    background-image: linear-gradient(#64ffdb00, #64ffdb00), url(/css/images/20230411_010416.jpg);
+    background-image: linear-gradient(#64ffdb00, #64ffdb00), url(./images/20230411_010416.jpg)
 }
 
 .image::after{
